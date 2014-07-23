@@ -3,7 +3,7 @@ layout: page
 title: "Artesanato de Software"
 ---
 
-Artesanato de software é a cultura adotada pelo Artesão de Software, composta por Atitudes, Disciplinas, Princípios, Práticas e Padrões. O movimento de Artesanato de Software foi fundado a partir do seguinte manifesto:
+Artesanato de software é a cultura adotada pelo Artesão de Software, composta por Atitudes, Disciplinas, Princípios, Práticas e Padrões. O movimento do Artesanato de Software foi fundado a partir do seguinte manifesto:
 
 # Manifesto do Artesanato de Software
 
@@ -18,4 +18,4 @@ Sendo assim descobrimos, que para atingir os objetivos à esquerda, os que estã
 
 # Origem do termo
 
-A expressão Artesanato de Software foi cunhada no livro Software Craftsmanship, de Pete McBreen, como uma alternativa mais realista de metáfora para o Desenvolvimento de Software, criticando a metáfora proposta pelo termo Engenharia de Software. Lança por terra a ideia de Software Bom o Suficiente como uma falácia, valorizando mais a qualidade do software assim como o desenvolvimento das pessoas envolvidas. Revive o modelo de aprendizagem dos artesãos medievais como reconhecimento profissional ao invés de licensas e certificações. Explica atitudes profissionais no relacionamento entre artesãos, gerentes e clientes, e equilibra as forças entre os envolvidos. Rejeita a especialização restrita como forma de evolução na carreira e define o aprendizado perpétuo como disicplina fundamental para o artesão.
+A expressão Artesanato de Software foi cunhada no livro Software Craftsmanship, de Pete McBreen, como uma alternativa mais realista de metáfora para o Desenvolvimento de Software, criticando a metáfora proposta pelo termo Engenharia de Software. Desacredita a ideia de Software Bom o Suficiente como sendo falaciosa, valorizando mais a qualidade do software assim como o desenvolvimento das pessoas envolvidas. Revive o modelo de aprendizagem dos artesãos medievais como reconhecimento profissional ao invés de licensas e certificações. Explica atitudes profissionais no relacionamento entre artesãos, gerentes e clientes, e equilibra as forças entre os envolvidos. Rejeita a especialização restrita como forma de evolução na carreira e define o aprendizado perpétuo como disicplina fundamental para o artesão.
