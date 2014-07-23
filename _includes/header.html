@@ -2,7 +2,6 @@
 {% else %}
 <header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url({{ site.url }}/images/{{ site.default_bg }})" itemscope itemtype="http://schema.org/Organization">
 {% endif %}
-{% if page.headline %}
     <div class="inner">
         <div class="container">
             <a class="brand light" href="{{ site.url }}" role="banner" itemprop="url">
@@ -15,25 +14,10 @@
                 
             </a>
             <h2 class="blog-description light bordered bordered-top" itemprop="description">
-                {{ page.headline }}
+                {{ site.description }}
             </h2>
         </div>
     </div>
-    {% else %}
-    <div class="inner">
-        <div class="container">
-            <a class="brand" href="{{ site.url }}" role="banner" itemprop="url">
-
-                {% if site.logo %}<img itemprop="logo" src="{{ site.url }}/images/{{ site.logo }}" alt="{{ site.title }} Logo" />{% endif %}
-
-            <h1 class="blog-title light" itemprop="name">
-                {{ site.title }}
-            </h1>
-                
-            </a>
-        </div>
-    </div>
-    {% endif %}
     {% if site.animated_fins %}
     <div class="decor-wrapper">
         <svg id="header-decor" class="decor bottom" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100" preserveAspectRatio="none">
