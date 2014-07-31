@@ -5,7 +5,7 @@ title: "Artesanato de Software"
 
 Artesanato de software é a cultura adotada pelo Artesão de Software, composta por Atitudes, Disciplinas, Princípios, Práticas e Padrões. O movimento do Artesanato de Software foi fundado a partir do seguinte manifesto:
 
-# Manifesto do Artesanato de Software
+# Manifesto do Artesanato de Software [*](http://manifesto.softwarecraftsmanship.org)
 
 Como aspirantes a verdadeiros Artesãos de Software, estamos ampliando as fronteiras da qualidade no desenvolvimento profissional de programas de computadores através da prática e ensinando outros a aprender nossa arte. Graças a esse trabalho, valorizamos:
 
@@ -18,4 +18,4 @@ Sendo assim descobrimos, que para atingir os objetivos à esquerda, os que estã
 
 # Origem do termo
 
-A expressão Artesanato de Software foi cunhada no livro Software Craftsmanship, de Pete McBreen, como uma alternativa mais realista de metáfora para o Desenvolvimento de Software, criticando a metáfora proposta pelo termo Engenharia de Software. Desacredita a ideia de Software Bom o Suficiente como sendo falaciosa, valorizando mais a qualidade do software assim como o desenvolvimento das pessoas envolvidas. Revive o modelo de aprendizagem dos artesãos medievais como reconhecimento profissional ao invés de licensas e certificações. Explica atitudes profissionais no relacionamento entre artesãos, gerentes e clientes, e equilibra as forças entre os envolvidos. Rejeita a especialização restrita como forma de evolução na carreira e define o aprendizado perpétuo como disicplina fundamental para o artesão.
+A expressão Artesanato de Software foi cunhada no livro [Software Craftsmanship](http://www.mcbreen.ab.ca/SoftwareCraftsmanship/), de Pete McBreen, como uma alternativa mais realista de metáfora para o Desenvolvimento de Software, criticando a metáfora proposta pelo termo Engenharia de Software. Desacredita a ideia de Software Bom o Suficiente como sendo falaciosa, valorizando mais a qualidade do software assim como o desenvolvimento das pessoas envolvidas. Revive o modelo de aprendizagem dos artesãos medievais como reconhecimento profissional ao invés de licensas e certificações. Explica atitudes profissionais no relacionamento entre artesãos, gerentes e clientes, e equilibra as forças entre os envolvidos. Rejeita a especialização restrita como forma de evolução na carreira e define o aprendizado perpétuo como disicplina fundamental para o artesão.
