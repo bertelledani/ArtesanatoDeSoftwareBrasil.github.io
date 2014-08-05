@@ -3,7 +3,7 @@ layout: page
 title: Software de Excelente Qualidade
 ---
 
-Muitas métricas foram criadas para se tentar medir qualidade em software, mas nenhuma conseguiu trazer luz nem soluções práticas aos problemas no desenvolvimento de software comercial sob o paradigma de Engenharia de Software. O Artesanato de Software traz então uma nova abordagem para a qualidade: Aprendemos com os erros de quem pratica o artesanato a mais tempo, identificando padrões e princípios a partir das soluções de diferentes problemas.
+Muitas métricas foram criadas pela Engenharia de Software para se tentar medir qualidade em software, mas nenhuma conseguiu trazer luz nem soluções práticas aos problemas no desenvolvimento de software comercial. O Artesanato de Software traz então uma nova abordagem para a qualidade: Aprendemos com os erros de quem pratica o artesanato a mais tempo, identificando padrões e princípios a partir das soluções de diferentes problemas.
 
 # Qualidade não tem medo do Tempo
 
