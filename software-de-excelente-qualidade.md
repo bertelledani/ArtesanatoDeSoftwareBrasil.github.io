@@ -23,7 +23,7 @@ Praticamente todo profissional experiente admite que já teve seu trabalho preju
 
 ## Rigidez
 
-Um sistema rígido é um sistema difícil de ser modificado. Quando uma modificação é feita, outra é necessária para o software continuar funcionando, e quando esta outra é feita, mais outra é necessária, causando um efeito cascata. A rigidez é prejudicial pois faz com que qualquer mudança no software possua consequências imprevisíveis, tornando o planejamento de tempo e esforco impraticável.
+Um sistema rígido é um sistema difícil de ser modificado. Quando uma modificação é feita, outra é necessária para o software continuar funcionando, e quando esta outra é feita, mais outra é necessária, causando um efeito cascata. A rigidez é prejudicial pois faz com que qualquer mudança no software possua consequências imprevisíveis, tornando o planejamento de tempo e esforço impraticável.
 
 ## Fragilidade
 
@@ -43,7 +43,7 @@ Código bom é o que não gera os sintomas acima no software. Ele tem mais quali
 
 ## Legibilidade
 
-Código bom não é opaco. É simples e direto, pode ser lido como prosa bem escrita. Tem nomes siginficativos. Parece que foi escrito por alguém que se importa. Pode ser lido e melhorado por um desenvolvedor que não seja o seu autor original. Cada parte do código que você lê é bem aquilo o que você esperava.
+Código bom não é opaco. É simples e direto, pode ser lido como prosa bem escrita. Tem nomes significativos. Parece que foi escrito por alguém que se importa. Pode ser lido e melhorado por um desenvolvedor que não seja o seu autor original. Cada parte do código que você lê é bem aquilo o que você esperava.
 
 ## Robustez
 
@@ -51,7 +51,7 @@ Código bom não é frágil. Possui testes unitários que garantem o seu funcion
 
 ## Flexibilidade
 
-Código bom não é rígido. Cada artefato possui uma única razão para mudar, então uma mudança é feita apenas em um único lugar. Está sempre aberto a extensão, diminuindo mudanças em código existente quando se adiciona funcionalidades. Seus testes automatizados não são acoplados à implementação, dando liberdade para refatorar o modelo do domínio.
+Código bom não é rígido. Cada artefato possui uma única razão para mudar, então uma mudança é feita apenas em um único lugar. Está sempre aberto a extensão, diminuindo mudanças em código existente quando se adicionam funcionalidades. Seus testes automatizados não são acoplados a implementação, dando liberdade para refatorar o modelo do domínio.
 
 ## Independência
 
