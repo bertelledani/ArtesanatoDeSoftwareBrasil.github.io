@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Artesanato de Software"
 ---
 
 Artesanato de software é a cultura adotada pelo Artesão de Software, composta por Atitudes, Disciplinas, Princípios, Práticas e Padrões. O movimento do Artesanato de Software foi fundado a partir do seguinte manifesto:
