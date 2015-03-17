@@ -9,7 +9,7 @@ Artesanato de software é a cultura adotada pelo Artesão de Software, composta 
 Como aspirantes a verdadeiros Artesãos de Software, estamos ampliando as fronteiras da qualidade no desenvolvimento profissional de programas de computadores através da prática e ensinando outros a aprender nossa arte. Graças a esse trabalho, valorizamos:
 
 - Não apenas software em funcionamento, mas [software de excelente qualidade](software-de-excelente-qualidade.html)
-- Não apenas responder a mudanças, mas agregar valor de forma constante e crescente
+- Não apenas responder a mudanças, mas [agregar valor de forma constante e crescente](agregar-valor-de-forma-constante.html)
 - Não apenas indivíduos e suas interações, mas uma comunidade de profissionais
 - Não apenas a colaboração do cliente, mas parcerias produtivas
 
