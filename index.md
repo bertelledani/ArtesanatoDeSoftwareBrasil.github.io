@@ -10,7 +10,7 @@ Como aspirantes a verdadeiros Artesãos de Software, estamos ampliando as fronte
 
 - Não apenas software em funcionamento, mas [software de excelente qualidade](software-de-excelente-qualidade.html)
 - Não apenas responder a mudanças, mas agregar valor de forma constante e crescente
-- Não apenas indivíduos e suas interações, mas uma comunidade de profissionais
+- Não apenas indivíduos e suas interações, mas uma [comunidade de profissionais](comunidade-de-profissionais.html)
 - Não apenas a colaboração do cliente, mas parcerias produtivas
 
 Sendo assim descobrimos, que para atingir os objetivos à esquerda, os que estão à direita são indispensáveis.
