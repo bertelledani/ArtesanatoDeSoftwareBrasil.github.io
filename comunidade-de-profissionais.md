@@ -3,7 +3,7 @@ layout: page
 title: Comunidade de Profissionais
 ---
 
-É intrínseco para nós como artesãos expandir e aperfeiçoar nossas habilidades dia após dia. Para atingir esse objetivo não é suficiente uma abordagem inteiramente autodidata, devemos trocar experiências com outros artesãos para que assim possamos evoluir nossas habilidades. Criamos uma comunidade de profissionais para que nos ajude a escrever software de qualidade e adicionar valor de forma constante.  
+É intrínseco para nós como artesãos expandir e aperfeiçoar nossas habilidades dia após dia. Para atingir esse objetivo não é suficiente uma abordagem inteiramente autodidata, devemos trocar experiências com outros artesãos para que assim possamos evoluir nossas habilidades. Criamos uma comunidade de profissionais para que nos ajude a escrever [software de excelente qualidade](software-de-excelente-qualidade.html) e adicionar valor de forma constante.  
 
 # Aprendizes, Artesãos e Mestres
 
