@@ -3,7 +3,7 @@ layout: page
 title: Agregar Valor de Forma Constante
 ---
 
-O objetivo de todo time de desenvolvimento de software é entregar valor em forma de software para o seu cliente. Essa pressão da entrega de valor não é bem gerenciada pelo time, que escreve código de forma apressada para tentar fazer mais rápido e entregar mais valor. Stress paira sobre o time, que em conjunto com a pressa faz com que atalhos sejam tomados e gambiarras feitas, acumulando bagunça no código. O time fica cada vez mais lento, comprometendo progressivamente sua habilidade de entregar valor para o cliente. O artesanato de software traz uma nova abordagem ao processo de desenvolvimento: um processo artesanal
+O objetivo de todo time de desenvolvimento de software é entregar valor em forma de software para o seu cliente. Quando não há profissionalismo no desenvolvedor, a pressão da entrega faz o time escrever código de forma apressada para tentar fazer mais rápido e entregar mais valor. Estresse paira sobre o time que, com pressa, toma atalhos e decisões sem o devido cuidado, acumulando bagunça no código. O time fica cada vez mais lento por trabalhar na bagunça crescente, apesar de seu esforço genuíno, comprometendo progressivamente sua habilidade de entregar valor para o cliente. O artesanato de software traz uma nova abordagem ao processo de desenvolvimento: um processo completamente artesanal.
 
 # Atenção ao Detalhe
 
