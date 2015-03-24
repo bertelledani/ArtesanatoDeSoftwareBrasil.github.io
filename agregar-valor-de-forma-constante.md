@@ -19,7 +19,7 @@ A mentalidade do artesão sobre a estética é baseada na elegância da simplici
 
 # Banhar a Ouro
 
-Durante o esforço para desenvolver [Software de Excelente Qualidade](software-de-excelente-qualidade.html), pode-se cair na falácia de dispender tempo demais refinando a atual implementação e prejudicar a entrega de valor ao cliente. Banhar o software a ouro não agrega mais valor ao cliente, e o esforço de limpar o código e manter a qualidade alta deve ser contínuo e diluído nos ciclos de desenvolvimento, mantendo o ritmo do time estável.
+Durante o esforço para desenvolver [Software de Excelente Qualidade](software-de-excelente-qualidade.html), pode-se cair na armadilha de despender tempo demais refinando a atual implementação e prejudicar a entrega de valor ao cliente. Banhar o software a ouro não agrega mais valor ao cliente, e o esforço de limpar o código e manter a qualidade alta deve ser contínuo e diluído nos ciclos de desenvolvimento, mantendo o ritmo do time estável.
 
 # Estimativas e Compromissos
 
