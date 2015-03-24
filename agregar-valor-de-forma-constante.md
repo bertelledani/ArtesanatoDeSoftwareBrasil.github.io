@@ -23,4 +23,4 @@ Durante o esforço para desenvolver [Software de Excelente Qualidade](software-d
 
 # Estimativas e Compromissos
 
-Para entregar constantemente, as expectativas 
+Para entregar constantemente, as expectativas de artesão e cliente devem estar alinhadas.
