@@ -11,7 +11,7 @@ Um único bit trocado no meio de um programa pode causar catástrofes. Um caract
 
 # Ritmo Sustentável
 
-Manter um ritmo sustentável é a única forma de agregar o maior valor possível para o cliente. O jargão "Devagar e Sempre" é muito valioso, tanto para os desenvolvedores que devem prestar muita atenção para não introduzirem defeitos no software, quanto para os clientes que podem planejar seus negócios em cima desse ritmo constante de desenvolvimento.
+Manter um ritmo sustentável é a melhor forma de agregar o maior valor possível para o cliente. O jargão "Devagar e Sempre" é muito valioso, tanto para os desenvolvedores que devem prestar muita atenção para não introduzirem defeitos no software, quanto para os clientes que podem planejar seus negócios em cima desse ritmo constante de desenvolvimento.
 
 # Artesão, Não Artista
 
