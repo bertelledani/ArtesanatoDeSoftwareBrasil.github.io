@@ -15,7 +15,7 @@ Manter um ritmo sustentável é a melhor forma de agregar o maior valor possíve
 
 # Artesão, Não Artista
 
-A mentalidade do artesão sobre a estética é focada na elegância e simplicidade, não na beleza narcisista 
+A mentalidade do artesão sobre a estética é baseada na elegância da simplicidade e utilidade, não na vulgaridade do luxo e desperdício. Tudo tem um motivo para ser feito, que beneficia profundamente o cliente ou usuário. O artesão valoriza código limpo, claro e flexível na semântica, não perde tempo com futilidades de sintaxe como debates sobre o melhor padrão de indentação, de abertura de blocos ou de linhas em branco.
 
 # Banhar a Ouro
 
