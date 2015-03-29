@@ -7,7 +7,11 @@ title: Comunidade de Profissionais
 
 # Aprendizes, Artesãos e Mestres
 
-O Artesanato de Software se espelha no modelo medieval de aprendiz/mestre, onde um mestre artesão aceita aprendizes para auxiliar nas tarefas cotidianas de seu ofício, ao mesmo tempo em que propagava seu conhecimento e método para seus aprendizes. Os aprendizes eventualmente se tornavam artesãos e podiam buscar novos desafios trabalhando para novos mestres e assim aprender diferentes técnicas para seu ofício. Ao longo de sua jornada estes podiam ser reconhecidos pela qualidade de suas obras, fazendo com que aprendizes o buscassem para conhecer sua técnica, fazendo com que eventualmente estes se tornassem mestres artesãos.
+O Artesanato de Software se espelha no modelo medieval de aprendiz/mestre, onde um mestre artesão aceitava aprendizes para auxiliar nas tarefas cotidianas de seu ofício, ao mesmo tempo em que propagava seu conhecimento e método para seus aprendizes. Os aprendizes ao adquirirem experiência, tornavam se novos artesãos e para aperfeiçoar ainda mais suas técnicas buscavam novos desafios trabalhando com outros mestres e artesãos. Ao longo de sua jornada sua reputação era construida através de suas obras, que pela sua qualidade chamaria a atenção não só de novos aprendizes como dos atuais mestres. Eventualmente, este acabaria sendo reconhecido pela comunidade de artesãos, como um novo mestre.
+
+# Reputação e não Certificação
+
+ 
 
 # Aprendizagem Perpétua
 
@@ -17,4 +21,3 @@ O Artesanato de Software se espelha no modelo medieval de aprendiz/mestre, onde 
 
 - Não ter medo de guardar conhecimento.
 - Formentar eventos para a troca.
-- 
