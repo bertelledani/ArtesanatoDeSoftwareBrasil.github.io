@@ -11,8 +11,8 @@ O Artesanato de Software se espelha no modelo medieval de aprendiz/mestre, onde 
 
 # Reputação e não Certificação
 
+Para um artesão, a única forma de ter suas habilidades validadas, é através dos projetos já realizados e não através de uma parede repleta de certificações. Assim como os artesãos da idade média, sabemos que só seremos mestres, se a comunidade nos ver como mestres, e jamais através de uma 'Prova Certificadora de Mestres'. A única forma para atingir isso, é construir nossa reputação, seja com os projetos de sucesso entregue, colaborações à comunidade através de trabalhos apresentados ou como mentor de novos aprendizes. Para um artesão, esta é única forma de validar as habilidades de um profissional.
  
-
 # Aprendizagem Perpétua
 
 - 
