@@ -7,7 +7,7 @@ O objetivo de todo time de desenvolvimento de software é entregar valor em form
 
 # Atenção ao Detalhe
 
-Um único bit trocado no meio de um programa pode causar catástrofes. Um caracter errado em um programa de milhões de linhas pode fazer com que nenhuma de suas partes funcione. Desenvolver software é um processo que demanda altos níveis de concentração e cuidado, logo a atenção ao detalhe é imprescindível. O artesão, quando sob pressão, nunca se apressa. Ele aumenta sua concentração e atenção em situações críticas pois sabe das consequências de qualquer erro ou descuido ao escrever código.
+Um único bit trocado no meio de um programa pode causar catástrofes. Um caractere errado em um programa de milhões de linhas pode fazer com que nenhuma de suas partes funcione. Desenvolver software é um processo que demanda altos níveis de concentração e cuidado, logo a atenção ao detalhe é imprescindível. O artesão, quando sob pressão, nunca se apressa. Ele aumenta sua concentração e atenção em situações críticas pois sabe das consequências de qualquer erro ou descuido ao escrever código.
 
 # Banhar a Ouro
 
