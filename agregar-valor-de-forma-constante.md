@@ -19,7 +19,7 @@ A mentalidade do artesão sobre a estética é baseada na elegância da simplici
 
 # Estimativas e Compromissos
 
-Para entregar constantemente, as expectativas de artesão e cliente devem estar alinhadas. O artesão não promete o que não pode cumprir e diz Não ao cliente quando necessário. Ele reconhece que existe um grau de incerteza em qualquer estimativa, mede esse grau quantitativamente e o deixa transparente para o cliente, pois sabe que essa é a melhor maneira de gerar confiança. Ele entende que o cliente precisa de um compromisso de entrega e se compromete a entregar somente o que tem certeza que consegue, pois sabe que o cliente está planejando seu negócio com base nesse compromisso.
+Para entregar constantemente, as expectativas de artesão e cliente devem estar alinhadas. O artesão não promete o que não pode cumprir e diz “Não” ao cliente quando necessário. Ele reconhece que existe um grau de incerteza em qualquer estimativa, mede esse grau quantitativamente e o deixa transparente para o cliente, pois sabe que essa é a melhor maneira de gerar confiança. Ele entende que o cliente precisa de um compromisso de entrega e se compromete a entregar somente o que tem certeza que consegue, pois sabe que o cliente está planejando seu negócio com base nesse compromisso.
 
 # Ritmo Sustentável
 
