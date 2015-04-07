@@ -15,7 +15,7 @@ Durante o esforço para manter a atenção e concentrar-se para desenvolver [Sof
 
 # Artesão, Não Artista
 
-A mentalidade do artesão sobre a estética é baseada na elegância da simplicidade e utilidade, não na vulgaridade do luxo e desperdício. Tudo tem um motivo para ser feito, que beneficia profundamente o cliente ou usuário. O artesão valoriza código limpo, claro e flexível na semântica, como por exemplo aproximar  a nomenclatura usada no código e a linguagem de negócio. Ele não perde tempo com futilidades de sintaxe e formatação como debates sobre o melhor padrão de indentação, abertura de blocos ou linhas em branco.
+A mentalidade do artesão sobre a estética é baseada na elegância da simplicidade e utilidade, não na vulgaridade do luxo e desperdício. Tudo tem um motivo para ser feito, que beneficia profundamente o cliente ou usuário. O artesão valoriza código limpo, claro e flexível na semântica, como por exemplo aproximar a nomenclatura usada no código e a linguagem de negócio. Ele não perde tempo com futilidades de sintaxe e formatação como debates sobre o melhor padrão de indentação, abertura de blocos ou linhas em branco.
 
 # Estimativas e Compromissos
 
