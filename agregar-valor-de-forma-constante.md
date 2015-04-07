@@ -11,7 +11,7 @@ Um único bit trocado no meio de um programa pode causar catástrofes. Um caract
 
 # Banhar a Ouro
 
-Durante o esforço para manter a atenção e concentrar-se para desenvolver [Software de Excelente Qualidade](software-de-excelente-qualidade.html), o desenvolvedor pode cair na armadilha de banhar o software a ouro. Despender tempo demais refinando a atual implementação, refatorando o código que já passa todos os testes, ou refletindo sobre melhorias no design pode prejudicar a entrega de valor ao cliente. O artesão não refina, refatora nem reflete baseado em informações abstratas do futuro. Ele atua na realidade, no código existente, e aplica as técnicas somente quando há necessidade prática evidente.
+Durante o esforço para manter a atenção e concentrar-se para desenvolver [software de excelente qualidade](software-de-excelente-qualidade.html), o desenvolvedor pode cair na armadilha de banhar o software a ouro. Despender tempo demais refinando a atual implementação, refatorando o código que já passa todos os testes, ou refletindo sobre melhorias no design pode prejudicar a entrega de valor ao cliente. O artesão não refina, refatora nem reflete baseado em informações abstratas do futuro. Ele atua na realidade, no código existente, e aplica as técnicas somente quando há necessidade prática evidente.
 
 # Artesão, Não Artista
 
